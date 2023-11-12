@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**prado-igor/prado-igor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Igor Prado.
+- 👷Engenheiro Civil e programador
 
-Here are some ideas to get you started:
+- 💬 Me interesso por **C#, Python, Ciência de dados e Machine Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 [www.prasi.tec.br](https://www.prasi.tec.br)
+
+### Contato
+<div>
+  <p align="left" style="background:yellow">
+  <a href="https://linkedin.com/in/igorpradosilveira" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/_prado.igor" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+  </p>
+  <br><br>
+</div>
+
+
+
+
+
